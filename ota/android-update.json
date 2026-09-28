@@ -1,0 +1,8 @@
+{
+  "packageName": "io.github.millermessi15.billiardsscore",
+  "versionName": "2.0.0",
+  "versionCode": 1,
+  "apkUrl": "https://millermessi15.github.io/billiards-score-updates/ota/android-apks/billiards-v2.0.0.apk",
+  "sha256": "6e831eaea2409a79ba582c7a3b8e6f36823ea7dd6c82c728a24afc25d27c08b4",
+  "minSdk": 23
+}
